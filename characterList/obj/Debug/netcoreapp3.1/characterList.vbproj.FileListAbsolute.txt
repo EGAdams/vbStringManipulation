@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\characterList\characterList\bin\Debug\netcoreapp3.1\characterList.exe
+C:\Users\Owner\source\repos\characterList\characterList\bin\Debug\netcoreapp3.1\characterList.deps.json
+C:\Users\Owner\source\repos\characterList\characterList\bin\Debug\netcoreapp3.1\characterList.runtimeconfig.json
+C:\Users\Owner\source\repos\characterList\characterList\bin\Debug\netcoreapp3.1\characterList.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\characterList\characterList\bin\Debug\netcoreapp3.1\characterList.dll
+C:\Users\Owner\source\repos\characterList\characterList\bin\Debug\netcoreapp3.1\characterList.pdb
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.vbprojAssemblyReference.cache
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.AssemblyInfo.vb
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.dll
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.pdb
+C:\Users\Owner\source\repos\characterList\characterList\obj\Debug\netcoreapp3.1\characterList.genruntimeconfig.cache
